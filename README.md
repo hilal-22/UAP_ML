@@ -1,4 +1,5 @@
 Meat Consumption Analysis and Prediction
+
 Deskripsi Proyek
 Meat Consumption Analysis and Prediction adalah sebuah proyek yang bertujuan untuk menganalisis pola konsumsi daging berdasarkan data historis dan membuat prediksi konsumsi di masa depan. Proyek ini mencakup eksplorasi data, identifikasi tren, dan faktor yang memengaruhi konsumsi daging, seperti perubahan harga, preferensi konsumen, dan kebijakan pemerintah. Selain itu, model prediksi menggunakan teknik pembelajaran mesin dirancang untuk memperkirakan konsumsi di berbagai wilayah atau kelompok demografis. Hasil proyek ini dapat digunakan untuk mendukung keputusan dalam industri pangan, perencanaan kebijakan, dan keberlanjutan lingkungan.
 
@@ -70,3 +71,6 @@ Classification Report:
 Precision:  0.89
 Recall:  0.89
 F1-Score:  0.89
+
+Kesimpulan
+Dari hasil yang diperoleh, dapat disimpulkan bahwa Feedforward Neural Network menunjukkan performa yang sedikit lebih baik daripada Random Forest dan XGBoost dalam hal akurasi, meskipun semua model memberikan hasil yang sangat baik 
