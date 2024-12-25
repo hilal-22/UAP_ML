@@ -11,7 +11,7 @@ Langkah Instalasi
 Prasyarat
 Sebelum memulai, pastikan bahwa Anda telah menginstal Python 3.7 atau lebih baru. Anda juga memerlukan pip untuk mengelola dependensi.
 
-1. Instalasi Dependensi
+Instalasi Dependensi
 Clone repositori ini ke dalam direktori lokal Anda:
 
 git clone https://github.com/username/repository.git
